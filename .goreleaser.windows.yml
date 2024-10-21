@@ -40,6 +40,7 @@ chocolateys:
     project_source_url: "https://github.com/authzed/spicedb"
     docs_url: "https://authzed.com/docs"
     bug_tracker_url: "https://github.com/authzed/spicedb/issues"
+    authors: "SpiceDB Contributors"
     tags: "spicedb zanzibar authz rebac rbac abac fga"
     summary: "SpiceDB is a graph database purpose-built for storing and evaluating access control data."
     description: |
